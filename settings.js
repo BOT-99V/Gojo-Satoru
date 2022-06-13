@@ -23,8 +23,8 @@ global.owner = ['919072501166']
 global.premium = ['918078227355]
 global.ownernomer = '919072501166'
 global.ownername = 'ADHISER'
-global.botname = 'VILLAN'
-global.footer = 'VILLAN'
+global.botname = 'VILLANN'
+global.footer = 'VILLANN'
 global.ig = 'https://github.com/BOT-99V
 		  '
 global.region = 'India, South India, Kerala'
